@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>dresses.html</title>
+	<meta charset="utf-8">
+	<h2>dresses</h2>
+<div class="row">
+	<div class="column side"style="background-color:#ADD8E6;"><h1>cart.html</h1>
+    <p>elegant,cute and classy</p>
+   <img class= "img" src="https://flightsoffancybykristy.files.wordpress.com/2012/10/affordable-bridesmaids-dresses-21.jpg"width=500px>
+	<h5>ksh 5000 each</h5>
+	<p>weeding gowns</p>
+	<img class= "img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7KcUR5KqWkZr8-bRPm5c_oJe8gRJLiIXXQ&usqp=CAU"width=500px>
+	<img class= "img" src="https://rabbirobertsilverman.com/wp-content/uploads/2019/11/credit-singapore-brides.jpg"width=500px>
+	<h5>ksh 200000 each</h5>
+	<button onclick="document.location='default.asp'">search</button>
+	 </div>

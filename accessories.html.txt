@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ACCESSORIES.html</title>
+	<meta charset="utf-8">
+	<h2>accesories</h2>
+		 <div class="column side"style="background-color:#ADD8E6;"><h1>cart.html</h1>
+	 	<p>casual and formaL</p>
+	 	<button onclick="document.location='default.asp'">search</button>
+	<img class= "img" src="https://image.shutterstock.com/image-photo/fashion-women-stylish-accessories-outfit-260nw-1532053424.jpg"width=500px>
+	<p>french collection</p>
+	 	<button onclick="document.location='default.asp'">search</button>
+	<img class= "img" src="https://image.shutterstock.com/image-photo/woman-trendy-fashion-accessories-arrangement-260nw-524562859.jpg"width=500px>
+	<p>italy exports</p>
+	 	<button onclick="document.location='default.asp'">search</button>
+	<img class= "img" src="https://c8.alamy.com/comp/HKB0TW/fashion-flat-lay-for-web-site-social-media-feminine-accessories-bag-HKB0TW.jpg"width=500px>
+	<img class= "img" src="https://kingdomofsequins.com/wp-content/uploads/2019/02/accessories.jpg"width=500px>
+	<h5>ksh 500 each</h5>
+</div>

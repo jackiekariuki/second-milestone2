@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>cart.html</title>
+        <meta charset="utf-8">
+        <h2>men shoes</h2>
+             <div class="column side"style="background-color:#ADD8E6;"><h1>cart.html</h1>
+             <p>casual and formaL</p>
+             <button onclick="document.location='default.asp'">HTML Tutorial</button>
+             <img class= "img" src="https://cf.shopee.com.my/file/557bc28559adfff41fdf15b3654735a6" width=500px>
+        <h5>ksh 2500-ksh5000</h5>
+        <p>women shoes</p>
+        <img class= "img" src="https://cdn3.vectorstock.com/i/1000x1000/17/07/ladies-shoes-vector-2221707.jpg" width=500px>
+        <h5>ksh 5000-ksh7000</h5>
+        <p>children shoes</p>
+        <img class= "img" src="https://www.shopeebazar.com/wp-content/uploads/2019/12/2018-New-Children-Shoes-PU-Leather-Waterproof-Martin-boots-Kids-leather-shoes-Brand-Girls-Boys-Rubber_9b14df8f-1240-4406-9f98-cd411deaa18a.jpg" width=500px>
+        <h5>@ksh2000 each</h5>
+        
+        <h5>class="mytext"ksh 500-ksh 2000</h5>
+    </div>

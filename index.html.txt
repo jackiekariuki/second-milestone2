@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HOUSE OF JACKIE</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="C:\Users\hp\Desktop\myno.css">
+</head>
+  <body>
+ <body background="#FFB6C1"width=2000px> 
+ 	<div class="header"> 
+ 	<div class="navbar">
+ 	<img src="https://m.economictimes.com/thumb/msid-60188264,width-1200,height-900,resizemode-4,imgsize-120082/magazines/panache/looking-for-a-new-job-how-about-shopping-for-someone-else-at-rs-25000-per-day/shop_640x480_thinkstock.jpg" width=500px>
+ </div>
+</div>
+ <nav>
+ 	<ul>
+ 		<li><a href="home.html">home </a></li>
+	     <li><a href="dresses.html">dresses</a></li>
+         <li><a href="accessories.html">accessories</a></li>
+         <li><a href="furniture.html">furniture</a></li>
+	     <li><a href="cart.html">shoes</a></li>
+	 </ul>
+	</nav>
+	<div class="row">
+        
+		<div class="col-2">
+	 <img class= "img" scr="https://static1.bigstockphoto.com/5/6/3/large2/365850526.jpg">
+	</div>
+	<form action="submit">
+		<label for="ZIP">ENTER YOUR ZIPCODE:</label><br>
+		<input type="text"id="ZIP"
+		name="ZIP"><br>
+	</form>
+</div>
+
+        <div class="col-2">
+	<h1>HOUSE OF JACKIE</h1>
+	<p1>World's Largest Brand Marketplace. Choose Your Favorite Product and Order Now!We're business as usual. Discover the latest fashion & trends in menswear & womenswear at HOJ.<br> Shop our collection of clothes, accessories, beauty & more.Shop women's clothing online from house of jackie. </p1>
+</div>
+<div class="col-2">
+	  <img scr="https://static1.bigstockphoto.com/5/6/3/large2/365850526.jpg">
+	</div>
+	<a href="">explore now</a>
+	<h2>Featured products</h2>
+<div class="row">
+	<div class="column side"style="background-color:#ADD8E6;"><h1>dresses</h1>
+    <p>elegant,cute and classy</p>
+   <img class= "img" src="https://flightsoffancybykristy.files.wordpress.com/2012/10/affordable-bridesmaids-dresses-21.jpg"width=500px>
+	<h5>ksh 200000-ksh 500000 </h5>
+	<button onclick="document.location='default.asp'">button</button>
+	 </div>
+	 <div class="column side"style="background-color:#ADD8E6;"><h1>accesories</h1>
+	 	<p>casual and formaL</p>
+	 	<button onclick="document.location='default.asp'">button</button>
+	<img class= "img" src="https://image.shutterstock.com/image-photo/fashion-women-stylish-accessories-outfit-260nw-1532053424.jpg"width=500px>
+	<h5>500-ksh 20000</h5>
+</div>
+   <div class="column side"style="background-color:#ADD8E6;"><h1>shoes</h1>
+
+	<img class= "img" src="https://cf.shopee.com.my/file/557bc28559adfff41fdf15b3654735a6" width=500px>
+	<h5>class="mytext"ksh 2000-ksh 10000</h5>
+    <button onclick="document.location='default.asp'">botton</button>
+    <p>elegant</p>
+    <div class="column side"style="background-color:#ADD8E6;"><h1>furniture</h1>
+
+        <img class= "img" src="https://i.pinimg.com/originals/0d/dc/1c/0ddc1c25b08bea77a312cf2d6ee55c91.jpg" width=500px>
+        <h5>class="mytext"ksh 20000-ksh 100000</h5>
+        <button onclick="document.location='default.asp'">botton</button>
+    
+
+</div>
+     
+<div>
+	</div>
+	<br><br><br><br>
+	<hr>
+	<div class="footer">
+		<p>phone contact 0758665671</p>
+		<p>all rights reserved</p>
+	</div>
+
+</body>
+</html>
+
+
+
+
+
+
+	
+</body>
+<h2>black friday>
+	</h2>
+	<h3>latest products>
+
+
+
+
+
